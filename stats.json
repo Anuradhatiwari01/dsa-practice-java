@@ -1,24 +1,26 @@
 {
-  "totalSolved": 2,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-19",
+  "totalSolved": 3,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-20",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
-    "LeetCode_Majority_Element_II": true
+    "LeetCode_Majority_Element_II": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true
   },
   "activityHistory": {
     "2026-08-03": 1,
-    "2026-08-19": 1
+    "2026-08-19": 1,
+    "2026-08-20": 1
   },
   "todayProblems": [
-    "Majority Element II"
+    "Best Time to Buy and Sell Stock"
   ]
 }
