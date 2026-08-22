@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
-  "currentStreak": 2,
+  "totalSolved": 5,
+  "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-08-20",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-22",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -14,15 +14,16 @@
     "LeetCode_Minimum_Number_of_Pushes_to_Type_Word_II": true,
     "LeetCode_Majority_Element_II": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true
+    "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
+    "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true
   },
   "activityHistory": {
     "2026-08-03": 1,
     "2026-08-19": 1,
-    "2026-08-20": 2
+    "2026-08-20": 2,
+    "2026-08-22": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock",
-    "Distribute Elements Into Two Arrays I"
+    "Check Divisibility by Digit Sum and Product"
   ]
 }
