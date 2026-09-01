@@ -6,3 +6,4 @@
 | 4 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 11:24 pm |
 | 5 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 22 Aug 2026 | 12:21 pm |
 | 6 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 04:11 pm |
+| 7 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 09:16 pm |
