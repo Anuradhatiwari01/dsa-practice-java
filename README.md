@@ -7,3 +7,4 @@
 | 5 | [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) | [LeetCode](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Easy | 22 Aug 2026 | 12:21 pm |
 | 6 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 04:11 pm |
 | 7 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 09:16 pm |
+| 8 | [Combination Sum IV](./LeetCode/Medium/Combination%20Sum%20IV) | [LeetCode](https://leetcode.com/problems/combination-sum-iv/) | Medium | 01 Sept 2026 | 10:50 pm |

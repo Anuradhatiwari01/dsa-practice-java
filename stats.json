@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -17,7 +17,8 @@
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Check_Divisibility_by_Digit_Sum_and_Product": true,
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
-    "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true
+    "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
+    "LeetCode_Combination_Sum_IV": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -25,9 +26,10 @@
     "2026-08-20": 2,
     "2026-08-22": 1,
     "2026-08-25": 1,
-    "2026-09-01": 1
+    "2026-09-01": 2
   },
   "todayProblems": [
-    "Minimum Moves to Clean the Classroom"
+    "Minimum Moves to Clean the Classroom",
+    "Combination Sum IV"
   ]
 }
