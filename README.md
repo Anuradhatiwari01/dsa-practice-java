@@ -9,3 +9,4 @@
 | 7 | [Minimum Moves to Clean the Classroom](./LeetCode/Medium/Minimum%20Moves%20to%20Clean%20the%20Classroom) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | Medium | 01 Sept 2026 | 09:16 pm |
 | 8 | [Combination Sum IV](./LeetCode/Medium/Combination%20Sum%20IV) | [LeetCode](https://leetcode.com/problems/combination-sum-iv/) | Medium | 01 Sept 2026 | 10:50 pm |
 | 9 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 03:36 pm |
+| 10 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 04 Sept 2026 | 03:30 pm |

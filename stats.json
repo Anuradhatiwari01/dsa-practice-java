@@ -1,12 +1,12 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 2,
+  "totalSolved": 10,
+  "currentStreak": 1,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-02",
+  "lastSyncDate": "2026-09-04",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 0
   },
@@ -19,7 +19,8 @@
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
     "LeetCode_Minimum_Moves_to_Clean_the_Classroom": true,
     "LeetCode_Combination_Sum_IV": true,
-    "LeetCode_Construct_Uniform_Parity_Array_I": true
+    "LeetCode_Construct_Uniform_Parity_Array_I": true,
+    "LeetCode_Construct_Uniform_Parity_Array_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -28,9 +29,10 @@
     "2026-08-22": 1,
     "2026-08-25": 1,
     "2026-09-01": 2,
-    "2026-09-02": 1
+    "2026-09-02": 1,
+    "2026-09-04": 1
   },
   "todayProblems": [
-    "Construct Uniform Parity Array I"
+    "Construct Uniform Parity Array II"
   ]
 }
