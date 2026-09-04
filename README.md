@@ -10,3 +10,4 @@
 | 8 | [Combination Sum IV](./LeetCode/Medium/Combination%20Sum%20IV) | [LeetCode](https://leetcode.com/problems/combination-sum-iv/) | Medium | 01 Sept 2026 | 10:50 pm |
 | 9 | [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | 02 Sept 2026 | 03:36 pm |
 | 10 | [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) | [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | 04 Sept 2026 | 03:30 pm |
+| 11 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 04:03 pm |
