@@ -1,12 +1,12 @@
 {
-  "totalSolved": 11,
-  "currentStreak": 1,
+  "totalSolved": 12,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-09-04",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -21,7 +21,8 @@
     "LeetCode_Combination_Sum_IV": true,
     "LeetCode_Construct_Uniform_Parity_Array_I": true,
     "LeetCode_Construct_Uniform_Parity_Array_II": true,
-    "LeetCode_Smallest_Stable_Index_I": true
+    "LeetCode_Smallest_Stable_Index_I": true,
+    "LeetCode_Smallest_Stable_Index_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -31,10 +32,10 @@
     "2026-08-25": 1,
     "2026-09-01": 2,
     "2026-09-02": 1,
-    "2026-09-04": 2
+    "2026-09-04": 2,
+    "2026-09-05": 1
   },
   "todayProblems": [
-    "Construct Uniform Parity Array II",
-    "Smallest Stable Index I"
+    "Smallest Stable Index II"
   ]
 }
