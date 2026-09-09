@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 7,
+    "medium": 8,
     "hard": 2,
     "basic": 0
   },
@@ -25,7 +25,8 @@
     "LeetCode_Smallest_Stable_Index_II": true,
     "LeetCode_Distinct_Subsequences": true,
     "LeetCode_Distinct_Subsequences_II": true,
-    "LeetCode_Pow(x,_n)": true
+    "LeetCode_Pow(x,_n)": true,
+    "LeetCode_Count_Commas_in_Range_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -39,9 +40,10 @@
     "2026-09-05": 1,
     "2026-09-06": 1,
     "2026-09-07": 1,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
-    "Pow(x, n)"
+    "Pow(x, n)",
+    "Count Commas in Range II"
   ]
 }
