@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 10,
+    "medium": 11,
     "hard": 2,
     "basic": 0
   },
@@ -29,7 +29,8 @@
     "LeetCode_Count_Commas_in_Range_II": true,
     "LeetCode_Count_Commas_in_Range": true,
     "LeetCode_Combination_Sum": true,
-    "LeetCode_Combination_Sum_II": true
+    "LeetCode_Combination_Sum_II": true,
+    "LeetCode_Combination_Sum_III": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -44,10 +45,11 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-09": 3,
-    "2026-09-10": 2
+    "2026-09-10": 3
   },
   "todayProblems": [
     "Combination Sum",
-    "Combination Sum II"
+    "Combination Sum II",
+    "Combination Sum III"
   ]
 }
