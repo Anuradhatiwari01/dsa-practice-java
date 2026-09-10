@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-10",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 12,
+    "medium": 13,
     "hard": 2,
     "basic": 0
   },
@@ -33,7 +33,8 @@
     "LeetCode_Combination_Sum_III": true,
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Min_Cost_Climbing_Stairs": true,
-    "LeetCode_House_Robber": true
+    "LeetCode_House_Robber": true,
+    "LeetCode_Unique_Paths": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -48,7 +49,7 @@
     "2026-09-06": 1,
     "2026-09-07": 1,
     "2026-09-09": 3,
-    "2026-09-10": 6
+    "2026-09-10": 7
   },
   "todayProblems": [
     "Combination Sum",
@@ -56,6 +57,7 @@
     "Combination Sum III",
     "Climbing Stairs",
     "Min Cost Climbing Stairs",
-    "House Robber"
+    "House Robber",
+    "Unique Paths"
   ]
 }
