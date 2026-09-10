@@ -21,3 +21,4 @@
 | 19 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 10 Sept 2026 | 06:38 am |
 | 20 | [Combination Sum III](./LeetCode/Medium/Combination%20Sum%20III) | [LeetCode](https://leetcode.com/problems/combination-sum-iii/) | Medium | 10 Sept 2026 | 06:47 am |
 | 21 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 10 Sept 2026 | 07:04 am |
+| 22 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 10 Sept 2026 | 07:17 am |
