@@ -26,3 +26,4 @@
 | 24 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 10 Sept 2026 | 07:51 am |
 | 25 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 10 Sept 2026 | 08:01 am |
 | 26 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 06:29 pm |
+| 27 | [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) | [LeetCode](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | 12 Sept 2026 | 12:00 am |
