@@ -1,12 +1,12 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-09-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 22,
+    "medium": 23,
     "hard": 4,
     "basic": 0
   },
@@ -48,7 +48,8 @@
     "LeetCode_Edit_Distance": true,
     "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true,
     "LeetCode_Decode_Ways": true,
-    "LeetCode_Coin_Change": true
+    "LeetCode_Coin_Change": true,
+    "LeetCode_Partition_Equal_Subset_Sum": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -69,9 +70,10 @@
     "2026-09-14": 1,
     "2026-09-15": 2,
     "2026-09-16": 5,
-    "2026-09-17": 1
+    "2026-09-17": 2
   },
   "todayProblems": [
-    "Coin Change"
+    "Coin Change",
+    "Partition Equal Subset Sum"
   ]
 }
