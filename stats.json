@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 20,
+    "medium": 21,
     "hard": 4,
     "basic": 0
   },
@@ -46,7 +46,8 @@
     "LeetCode_Is_Subsequence": true,
     "LeetCode_Longest_Common_Subsequence": true,
     "LeetCode_Edit_Distance": true,
-    "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true
+    "LeetCode_Number_of_Sets_of_K_Non-Overlapping_Line_Segments": true,
+    "LeetCode_Decode_Ways": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -66,12 +67,13 @@
     "2026-09-13": 1,
     "2026-09-14": 1,
     "2026-09-15": 2,
-    "2026-09-16": 4
+    "2026-09-16": 5
   },
   "todayProblems": [
     "Is Subsequence",
     "Longest Common Subsequence",
     "Edit Distance",
-    "Number of Sets of K Non-Overlapping Line Segments"
+    "Number of Sets of K Non-Overlapping Line Segments",
+    "Decode Ways"
   ]
 }

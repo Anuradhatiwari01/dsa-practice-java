@@ -36,3 +36,4 @@
 | 34 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 16 Sept 2026 | 05:56 pm |
 | 35 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 16 Sept 2026 | 06:31 pm |
 | 36 | [Number of Sets of K Non-Overlapping Line Segments](./LeetCode/Medium/Number%20of%20Sets%20of%20K%20Non-Overlapping%20Line%20Segments) | [LeetCode](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | 16 Sept 2026 | 10:04 pm |
+| 37 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 16 Sept 2026 | 10:57 pm |
