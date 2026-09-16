@@ -33,3 +33,4 @@
 | 31 | [Maximum Number of Non-overlapping Palindrome Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-overlapping%20Palindrome%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | 15 Sept 2026 | 03:46 pm |
 | 32 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 15 Sept 2026 | 10:45 pm |
 | 33 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 16 Sept 2026 | 04:58 pm |
+| 34 | [Longest Common Subsequence](./LeetCode/Medium/Longest%20Common%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-common-subsequence/) | Medium | 16 Sept 2026 | 05:56 pm |

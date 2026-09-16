@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 17,
+    "medium": 18,
     "hard": 4,
     "basic": 0
   },
@@ -43,7 +43,8 @@
     "LeetCode_Rectangle_Overlap": true,
     "LeetCode_Maximum_Number_of_Non-overlapping_Palindrome_Substrings": true,
     "LeetCode_Minimum_Path_Sum": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "LeetCode_Longest_Common_Subsequence": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -63,9 +64,10 @@
     "2026-09-13": 1,
     "2026-09-14": 1,
     "2026-09-15": 2,
-    "2026-09-16": 1
+    "2026-09-16": 2
   },
   "todayProblems": [
-    "Is Subsequence"
+    "Is Subsequence",
+    "Longest Common Subsequence"
   ]
 }
