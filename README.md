@@ -39,3 +39,4 @@
 | 37 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 16 Sept 2026 | 10:57 pm |
 | 38 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 17 Sept 2026 | 12:22 am |
 | 39 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 17 Sept 2026 | 12:59 am |
+| 40 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/Medium/Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 17 Sept 2026 | 10:25 pm |
