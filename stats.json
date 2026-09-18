@@ -1,13 +1,13 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-09-17",
-  "todayCount": 3,
+  "totalSolved": 41,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-09-18",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
     "medium": 24,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -50,7 +50,8 @@
     "LeetCode_Decode_Ways": true,
     "LeetCode_Coin_Change": true,
     "LeetCode_Partition_Equal_Subset_Sum": true,
-    "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true
+    "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
+    "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -71,11 +72,10 @@
     "2026-09-14": 1,
     "2026-09-15": 2,
     "2026-09-16": 5,
-    "2026-09-17": 3
+    "2026-09-17": 3,
+    "2026-09-18": 1
   },
   "todayProblems": [
-    "Coin Change",
-    "Partition Equal Subset Sum",
-    "Find Two Non-overlapping Sub-arrays Each With Target Sum"
+    "Maximum Number of Non-Overlapping Substrings"
   ]
 }
