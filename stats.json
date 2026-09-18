@@ -1,11 +1,11 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 24,
     "hard": 5,
     "basic": 0
@@ -52,7 +52,8 @@
     "LeetCode_Partition_Equal_Subset_Sum": true,
     "LeetCode_Find_Two_Non-overlapping_Sub-arrays_Each_With_Target_Sum": true,
     "LeetCode_Maximum_Number_of_Non-Overlapping_Substrings": true,
-    "GeeksForGeeks_BFS_of_Graph": true
+    "GeeksForGeeks_BFS_of_Graph": true,
+    "GeeksForGeeks_DFS_of_Graph": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -74,10 +75,11 @@
     "2026-09-15": 2,
     "2026-09-16": 5,
     "2026-09-17": 3,
-    "2026-09-18": 2
+    "2026-09-18": 3
   },
   "todayProblems": [
     "Maximum Number of Non-Overlapping Substrings",
-    "BFS of Graph"
+    "BFS of Graph",
+    "DFS of Graph"
   ]
 }
