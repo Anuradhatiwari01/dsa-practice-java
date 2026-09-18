@@ -41,3 +41,4 @@
 | 39 | [Partition Equal Subset Sum](./LeetCode/Medium/Partition%20Equal%20Subset%20Sum) | [LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | 17 Sept 2026 | 12:59 am |
 | 40 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](./LeetCode/Medium/Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum) | [LeetCode](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | 17 Sept 2026 | 10:25 pm |
 | 41 | [Maximum Number of Non-Overlapping Substrings](./LeetCode/Hard/Maximum%20Number%20of%20Non-Overlapping%20Substrings) | [LeetCode](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | 18 Sept 2026 | 03:47 pm |
+| 42 | [BFS of Graph](./GeeksForGeeks/Easy/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 18 Sept 2026 | 06:46 pm |
