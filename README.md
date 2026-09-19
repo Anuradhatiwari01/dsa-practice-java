@@ -44,3 +44,4 @@
 | 42 | [BFS of Graph](./GeeksForGeeks/Easy/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 18 Sept 2026 | 06:46 pm |
 | 43 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 18 Sept 2026 | 06:55 pm |
 | 44 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 18 Sept 2026 | 11:28 pm |
+| 45 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 19 Sept 2026 | 11:23 am |
