@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-09-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 26,
+    "medium": 27,
     "hard": 5,
     "basic": 0
   },
@@ -55,7 +55,8 @@
     "GeeksForGeeks_BFS_of_Graph": true,
     "GeeksForGeeks_DFS_of_Graph": true,
     "GeeksForGeeks_Undirected_Graph_Cycle": true,
-    "LeetCode_Number_of_Islands": true
+    "LeetCode_Number_of_Islands": true,
+    "LeetCode_Circle_and_Rectangle_Overlapping": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -78,9 +79,10 @@
     "2026-09-16": 5,
     "2026-09-17": 3,
     "2026-09-18": 4,
-    "2026-09-19": 1
+    "2026-09-19": 2
   },
   "todayProblems": [
-    "Number of Islands"
+    "Number of Islands",
+    "Circle and Rectangle Overlapping"
   ]
 }
