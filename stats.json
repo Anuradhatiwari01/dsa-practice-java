@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-09-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 15,
-    "medium": 27,
+    "medium": 28,
     "hard": 5,
     "basic": 0
   },
@@ -57,7 +57,8 @@
     "GeeksForGeeks_Undirected_Graph_Cycle": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
-    "LeetCode_Reverse_Degree_of_a_String": true
+    "LeetCode_Reverse_Degree_of_a_String": true,
+    "GeeksForGeeks_Directed_Graph_Cycle": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -81,9 +82,10 @@
     "2026-09-17": 3,
     "2026-09-18": 4,
     "2026-09-19": 2,
-    "2026-09-20": 1
+    "2026-09-20": 2
   },
   "todayProblems": [
-    "Reverse Degree of a String"
+    "Reverse Degree of a String",
+    "Directed Graph Cycle"
   ]
 }
