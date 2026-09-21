@@ -50,3 +50,4 @@
 | 48 | [Directed Graph Cycle](./GeeksForGeeks/Medium/Directed%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Medium | 20 Sept 2026 | 10:44 am |
 | 49 | [Topological Sort](./GeeksForGeeks/Medium/Topological%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/topological-sort/1) | Medium | 20 Sept 2026 | 12:02 pm |
 | 50 | [Bipartite Graph](./GeeksForGeeks/Medium/Bipartite%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bipartite-graph/1) | Medium | 20 Sept 2026 | 02:58 pm |
+| 51 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 08:50 pm |
