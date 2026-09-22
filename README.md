@@ -55,3 +55,4 @@
 | 53 | [Shortest Path in Binary Matrix](./LeetCode/Medium/Shortest%20Path%20in%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | 22 Sept 2026 | 04:35 pm |
 | 54 | [Find X Value of Array II](./LeetCode/Hard/Find%20X%20Value%20of%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard | 22 Sept 2026 | 05:28 pm |
 | 55 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 22 Sept 2026 | 05:47 pm |
+| 56 | [Find if Path Exists in Graph](./LeetCode/Easy/Find%20if%20Path%20Exists%20in%20Graph) | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | 22 Sept 2026 | 06:05 pm |
