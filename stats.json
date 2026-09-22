@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 32,
+    "medium": 33,
     "hard": 6,
     "basic": 0
   },
@@ -64,7 +64,8 @@
     "LeetCode_Find_X_Value_of_Array_I": true,
     "LeetCode_Flood_Fill": true,
     "LeetCode_Shortest_Path_in_Binary_Matrix": true,
-    "LeetCode_Find_X_Value_of_Array_II": true
+    "LeetCode_Find_X_Value_of_Array_II": true,
+    "LeetCode_Keys_and_Rooms": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -90,11 +91,12 @@
     "2026-09-19": 2,
     "2026-09-20": 4,
     "2026-09-21": 1,
-    "2026-09-22": 3
+    "2026-09-22": 4
   },
   "todayProblems": [
     "Flood Fill",
     "Shortest Path in Binary Matrix",
-    "Find X Value of Array II"
+    "Find X Value of Array II",
+    "Keys and Rooms"
   ]
 }
