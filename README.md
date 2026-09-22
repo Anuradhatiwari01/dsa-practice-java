@@ -52,3 +52,4 @@
 | 50 | [Bipartite Graph](./GeeksForGeeks/Medium/Bipartite%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bipartite-graph/1) | Medium | 20 Sept 2026 | 02:58 pm |
 | 51 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 08:50 pm |
 | 52 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 22 Sept 2026 | 01:44 pm |
+| 53 | [Shortest Path in Binary Matrix](./LeetCode/Medium/Shortest%20Path%20in%20Binary%20Matrix) | [LeetCode](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | 22 Sept 2026 | 04:35 pm |

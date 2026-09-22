@@ -1,12 +1,12 @@
 {
-  "totalSolved": 52,
+  "totalSolved": 53,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 31,
+    "medium": 32,
     "hard": 5,
     "basic": 0
   },
@@ -62,7 +62,8 @@
     "GeeksForGeeks_Topological_Sort": true,
     "GeeksForGeeks_Bipartite_Graph": true,
     "LeetCode_Find_X_Value_of_Array_I": true,
-    "LeetCode_Flood_Fill": true
+    "LeetCode_Flood_Fill": true,
+    "LeetCode_Shortest_Path_in_Binary_Matrix": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -88,9 +89,10 @@
     "2026-09-19": 2,
     "2026-09-20": 4,
     "2026-09-21": 1,
-    "2026-09-22": 1
+    "2026-09-22": 2
   },
   "todayProblems": [
-    "Flood Fill"
+    "Flood Fill",
+    "Shortest Path in Binary Matrix"
   ]
 }
