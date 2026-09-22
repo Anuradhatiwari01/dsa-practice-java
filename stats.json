@@ -1,13 +1,13 @@
 {
-  "totalSolved": 53,
+  "totalSolved": 54,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 16,
     "medium": 32,
-    "hard": 5,
+    "hard": 6,
     "basic": 0
   },
   "syncedProblems": {
@@ -63,7 +63,8 @@
     "GeeksForGeeks_Bipartite_Graph": true,
     "LeetCode_Find_X_Value_of_Array_I": true,
     "LeetCode_Flood_Fill": true,
-    "LeetCode_Shortest_Path_in_Binary_Matrix": true
+    "LeetCode_Shortest_Path_in_Binary_Matrix": true,
+    "LeetCode_Find_X_Value_of_Array_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -89,10 +90,11 @@
     "2026-09-19": 2,
     "2026-09-20": 4,
     "2026-09-21": 1,
-    "2026-09-22": 2
+    "2026-09-22": 3
   },
   "todayProblems": [
     "Flood Fill",
-    "Shortest Path in Binary Matrix"
+    "Shortest Path in Binary Matrix",
+    "Find X Value of Array II"
   ]
 }
