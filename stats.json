@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-09-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 33,
+    "medium": 34,
     "hard": 6,
     "basic": 0
   },
@@ -67,7 +67,8 @@
     "LeetCode_Find_X_Value_of_Array_II": true,
     "LeetCode_Keys_and_Rooms": true,
     "LeetCode_Find_if_Path_Exists_in_Graph": true,
-    "LeetCode_Find_the_Town_Judge": true
+    "LeetCode_Find_the_Town_Judge": true,
+    "LeetCode_Course_Schedule": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -94,9 +95,10 @@
     "2026-09-20": 4,
     "2026-09-21": 1,
     "2026-09-22": 5,
-    "2026-09-23": 1
+    "2026-09-23": 2
   },
   "todayProblems": [
-    "Find the Town Judge"
+    "Find the Town Judge",
+    "Course Schedule"
   ]
 }
