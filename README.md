@@ -58,3 +58,4 @@
 | 56 | [Find if Path Exists in Graph](./LeetCode/Easy/Find%20if%20Path%20Exists%20in%20Graph) | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | 22 Sept 2026 | 06:05 pm |
 | 57 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 23 Sept 2026 | 10:32 am |
 | 58 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 23 Sept 2026 | 11:15 am |
+| 59 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 08:40 pm |
