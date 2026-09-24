@@ -1,11 +1,11 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 36,
     "hard": 6,
     "basic": 0
@@ -70,7 +70,8 @@
     "LeetCode_Find_the_Town_Judge": true,
     "LeetCode_Course_Schedule": true,
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
-    "LeetCode_Count_the_Number_of_Complete_Components": true
+    "LeetCode_Count_the_Number_of_Complete_Components": true,
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -98,9 +99,10 @@
     "2026-09-21": 1,
     "2026-09-22": 5,
     "2026-09-23": 3,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Count the Number of Complete Components"
+    "Count the Number of Complete Components",
+    "Smallest Index With Digit Sum Equal to Index"
   ]
 }
