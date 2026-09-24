@@ -59,3 +59,4 @@
 | 57 | [Find the Town Judge](./LeetCode/Easy/Find%20the%20Town%20Judge) | [LeetCode](https://leetcode.com/problems/find-the-town-judge/) | Easy | 23 Sept 2026 | 10:32 am |
 | 58 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 23 Sept 2026 | 11:15 am |
 | 59 | [Minimum Operations to Reduce X to Zero](./LeetCode/Medium/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | 23 Sept 2026 | 08:40 pm |
+| 60 | [Count the Number of Complete Components](./LeetCode/Medium/Count%20the%20Number%20of%20Complete%20Components) | [LeetCode](https://leetcode.com/problems/count-the-number-of-complete-components/) | Medium | 24 Sept 2026 | 09:50 am |
