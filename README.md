@@ -63,3 +63,4 @@
 | 61 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 07:38 pm |
 | 62 | [Brace Expansion II](./LeetCode/Hard/Brace%20Expansion%20II) | [LeetCode](https://leetcode.com/problems/brace-expansion-ii/) | Hard | 25 Sept 2026 | 11:48 am |
 | 63 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 25 Sept 2026 | 12:22 pm |
+| 64 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 25 Sept 2026 | 07:06 pm |
