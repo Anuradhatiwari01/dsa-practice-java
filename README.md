@@ -64,3 +64,4 @@
 | 62 | [Brace Expansion II](./LeetCode/Hard/Brace%20Expansion%20II) | [LeetCode](https://leetcode.com/problems/brace-expansion-ii/) | Hard | 25 Sept 2026 | 11:48 am |
 | 63 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 25 Sept 2026 | 12:22 pm |
 | 64 | [Dijkstra Algorithm](./GeeksForGeeks/Medium/Dijkstra%20Algorithm) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | Medium | 25 Sept 2026 | 07:06 pm |
+| 65 | [Evaluate the Bracket Pairs of a String](./LeetCode/Medium/Evaluate%20the%20Bracket%20Pairs%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | Medium | 26 Sept 2026 | 09:00 pm |

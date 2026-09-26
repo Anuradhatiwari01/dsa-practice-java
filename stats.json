@@ -1,12 +1,12 @@
 {
-  "totalSolved": 64,
-  "currentStreak": 14,
-  "maxStreak": 14,
-  "lastSyncDate": "2026-09-25",
-  "todayCount": 3,
+  "totalSolved": 65,
+  "currentStreak": 15,
+  "maxStreak": 15,
+  "lastSyncDate": "2026-09-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 38,
+    "medium": 39,
     "hard": 7,
     "basic": 0
   },
@@ -74,7 +74,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Brace_Expansion_II": true,
     "LeetCode_Rotting_Oranges": true,
-    "GeeksForGeeks_Dijkstra_Algorithm": true
+    "GeeksForGeeks_Dijkstra_Algorithm": true,
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -103,11 +104,10 @@
     "2026-09-22": 5,
     "2026-09-23": 3,
     "2026-09-24": 2,
-    "2026-09-25": 3
+    "2026-09-25": 3,
+    "2026-09-26": 1
   },
   "todayProblems": [
-    "Brace Expansion II",
-    "Rotting Oranges",
-    "Dijkstra Algorithm"
+    "Evaluate the Bracket Pairs of a String"
   ]
 }
