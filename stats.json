@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
-  "currentStreak": 15,
+  "totalSolved": 66,
+  "currentStreak": 1,
   "maxStreak": 15,
-  "lastSyncDate": "2026-09-26",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 39,
+    "medium": 40,
     "hard": 7,
     "basic": 0
   },
@@ -75,7 +75,8 @@
     "LeetCode_Brace_Expansion_II": true,
     "LeetCode_Rotting_Oranges": true,
     "GeeksForGeeks_Dijkstra_Algorithm": true,
-    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true
+    "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
+    "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -105,9 +106,10 @@
     "2026-09-23": 3,
     "2026-09-24": 2,
     "2026-09-25": 3,
-    "2026-09-26": 1
+    "2026-09-26": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Evaluate the Bracket Pairs of a String"
+    "Reverse Substrings Between Each Pair of Parentheses"
   ]
 }
