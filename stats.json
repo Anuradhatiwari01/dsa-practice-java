@@ -1,12 +1,12 @@
 {
-  "totalSolved": 68,
-  "currentStreak": 1,
+  "totalSolved": 69,
+  "currentStreak": 2,
   "maxStreak": 15,
-  "lastSyncDate": "2026-09-30",
+  "lastSyncDate": "2026-10-01",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 41,
+    "medium": 42,
     "hard": 7,
     "basic": 0
   },
@@ -78,7 +78,8 @@
     "LeetCode_Evaluate_the_Bracket_Pairs_of_a_String": true,
     "LeetCode_Reverse_Substrings_Between_Each_Pair_of_Parentheses": true,
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
-    "GeeksForGeeks_Bellman_Ford": true
+    "GeeksForGeeks_Bellman_Ford": true,
+    "LeetCode_Network_Delay_Time": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -110,9 +111,10 @@
     "2026-09-25": 3,
     "2026-09-26": 1,
     "2026-09-28": 2,
-    "2026-09-30": 1
+    "2026-09-30": 1,
+    "2026-10-01": 1
   },
   "todayProblems": [
-    "Bellman Ford"
+    "Network Delay Time"
   ]
 }
