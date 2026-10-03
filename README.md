@@ -71,3 +71,4 @@
 | 69 | [Network Delay Time](./LeetCode/Medium/Network%20Delay%20Time) | [LeetCode](https://leetcode.com/problems/network-delay-time/) | Medium | 01 Oct 2026 | 01:29 pm |
 | 70 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 01 Oct 2026 | 09:06 pm |
 | 71 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 03 Oct 2026 | 12:05 am |
+| 72 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 03 Oct 2026 | 06:15 pm |

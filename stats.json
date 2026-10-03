@@ -1,13 +1,13 @@
 {
-  "totalSolved": 71,
+  "totalSolved": 72,
   "currentStreak": 1,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 21,
     "medium": 43,
-    "hard": 7,
+    "hard": 8,
     "basic": 0
   },
   "syncedProblems": {
@@ -81,7 +81,8 @@
     "GeeksForGeeks_Bellman_Ford": true,
     "LeetCode_Network_Delay_Time": true,
     "LeetCode_Valid_Parentheses": true,
-    "LeetCode_Generate_Parentheses": true
+    "LeetCode_Generate_Parentheses": true,
+    "LeetCode_Longest_Valid_Parentheses": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -115,9 +116,10 @@
     "2026-09-28": 2,
     "2026-09-30": 1,
     "2026-10-01": 2,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Generate Parentheses"
+    "Generate Parentheses",
+    "Longest Valid Parentheses"
   ]
 }
