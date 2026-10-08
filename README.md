@@ -76,3 +76,4 @@
 | 74 | [Score of Parentheses](./LeetCode/Medium/Score%20of%20Parentheses) | [LeetCode](https://leetcode.com/problems/score-of-parentheses/) | Medium | 05 Oct 2026 | 01:32 pm |
 | 75 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 06 Oct 2026 | 08:50 am |
 | 76 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 05:01 pm |
+| 77 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 09 Oct 2026 | 12:04 am |
