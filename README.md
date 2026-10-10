@@ -77,3 +77,4 @@
 | 75 | [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) | [LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | 06 Oct 2026 | 08:50 am |
 | 76 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 05:01 pm |
 | 77 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 09 Oct 2026 | 12:04 am |
+| 78 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 09:32 pm |
