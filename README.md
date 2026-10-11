@@ -78,3 +78,4 @@
 | 76 | [Remove Invalid Parentheses](./LeetCode/Hard/Remove%20Invalid%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | 07 Oct 2026 | 05:01 pm |
 | 77 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 09 Oct 2026 | 12:04 am |
 | 78 | [Minimum Sum of Squared Difference](./LeetCode/Medium/Minimum%20Sum%20of%20Squared%20Difference) | [LeetCode](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | 10 Oct 2026 | 09:32 pm |
+| 79 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 09:47 pm |
