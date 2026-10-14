@@ -1,12 +1,12 @@
 {
-  "totalSolved": 82,
+  "totalSolved": 83,
   "currentStreak": 1,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-14",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 49,
+    "medium": 50,
     "hard": 10,
     "basic": 0
   },
@@ -92,7 +92,8 @@
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "LeetCode_Apply_Operations_on_Array_to_Maximize_Sum_of_Squares": true,
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
-    "LeetCode_Maximize_Sum_of_Squares_of_Digits": true
+    "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
+    "LeetCode_Minimum_Time_to_Complete_Trips": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -135,10 +136,11 @@
     "2026-10-10": 1,
     "2026-10-11": 1,
     "2026-10-12": 1,
-    "2026-10-14": 2
+    "2026-10-14": 3
   },
   "todayProblems": [
     "Maximum Alternating Sum of Squares",
-    "Maximize Sum of Squares of Digits"
+    "Maximize Sum of Squares of Digits",
+    "Minimum Time to Complete Trips"
   ]
 }
