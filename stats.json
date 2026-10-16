@@ -1,13 +1,13 @@
 {
-  "totalSolved": 84,
-  "currentStreak": 2,
+  "totalSolved": 85,
+  "currentStreak": 3,
   "maxStreak": 15,
-  "lastSyncDate": "2026-10-15",
+  "lastSyncDate": "2026-10-16",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 24,
     "medium": 50,
-    "hard": 10,
+    "hard": 11,
     "basic": 0
   },
   "syncedProblems": {
@@ -94,7 +94,8 @@
     "LeetCode_Maximum_Alternating_Sum_of_Squares": true,
     "LeetCode_Maximize_Sum_of_Squares_of_Digits": true,
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
-    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
+    "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -138,9 +139,10 @@
     "2026-10-11": 1,
     "2026-10-12": 1,
     "2026-10-14": 3,
-    "2026-10-15": 1
+    "2026-10-15": 1,
+    "2026-10-16": 1
   },
   "todayProblems": [
-    "Subarrays Distinct Element Sum of Squares I"
+    "Subarrays Distinct Element Sum of Squares II"
   ]
 }
