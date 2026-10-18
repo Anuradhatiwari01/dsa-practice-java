@@ -87,3 +87,4 @@
 | 85 | [Subarrays Distinct Element Sum of Squares II](./LeetCode/Hard/Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II) | [LeetCode](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | 16 Oct 2026 | 09:29 pm |
 | 86 | [Minimum Swaps to Sort by Digit Sum](./LeetCode/Medium/Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | 17 Oct 2026 | 09:07 pm |
 | 87 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 18 Oct 2026 | 01:50 pm |
+| 88 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 18 Oct 2026 | 02:42 pm |
