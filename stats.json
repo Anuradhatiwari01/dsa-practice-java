@@ -1,13 +1,13 @@
 {
-  "totalSolved": 89,
+  "totalSolved": 90,
   "currentStreak": 5,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 24,
     "medium": 54,
-    "hard": 11,
+    "hard": 12,
     "basic": 0
   },
   "syncedProblems": {
@@ -99,7 +99,8 @@
     "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
     "LeetCode_Number_of_Provinces": true,
     "LeetCode_Redundant_Connection": true,
-    "LeetCode_Number_of_Operations_to_Make_Network_Connected": true
+    "LeetCode_Number_of_Operations_to_Make_Network_Connected": true,
+    "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -146,11 +147,12 @@
     "2026-10-15": 1,
     "2026-10-16": 1,
     "2026-10-17": 1,
-    "2026-10-18": 3
+    "2026-10-18": 4
   },
   "todayProblems": [
     "Number of Provinces",
     "Redundant Connection",
-    "Number of Operations to Make Network Connected"
+    "Number of Operations to Make Network Connected",
+    "Number of Ways to Reorder Array to Get Same BST"
   ]
 }
