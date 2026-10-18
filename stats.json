@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
-  "currentStreak": 4,
+  "totalSolved": 87,
+  "currentStreak": 5,
   "maxStreak": 15,
-  "lastSyncDate": "2026-10-17",
+  "lastSyncDate": "2026-10-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 51,
+    "medium": 52,
     "hard": 11,
     "basic": 0
   },
@@ -96,7 +96,8 @@
     "LeetCode_Minimum_Time_to_Complete_Trips": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_I": true,
     "LeetCode_Subarrays_Distinct_Element_Sum_of_Squares_II": true,
-    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true
+    "LeetCode_Minimum_Swaps_to_Sort_by_Digit_Sum": true,
+    "LeetCode_Number_of_Provinces": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -142,9 +143,10 @@
     "2026-10-14": 3,
     "2026-10-15": 1,
     "2026-10-16": 1,
-    "2026-10-17": 1
+    "2026-10-17": 1,
+    "2026-10-18": 1
   },
   "todayProblems": [
-    "Minimum Swaps to Sort by Digit Sum"
+    "Number of Provinces"
   ]
 }
