@@ -90,3 +90,4 @@
 | 88 | [Redundant Connection](./LeetCode/Medium/Redundant%20Connection) | [LeetCode](https://leetcode.com/problems/redundant-connection/) | Medium | 18 Oct 2026 | 02:42 pm |
 | 89 | [Number of Operations to Make Network Connected](./LeetCode/Medium/Number%20of%20Operations%20to%20Make%20Network%20Connected) | [LeetCode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | 18 Oct 2026 | 03:05 pm |
 | 90 | [Number of Ways to Reorder Array to Get Same BST](./LeetCode/Hard/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 18 Oct 2026 | 05:34 pm |
+| 91 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 11:29 am |
