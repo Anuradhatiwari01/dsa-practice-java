@@ -1,11 +1,11 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 6,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 25,
+    "easy": 26,
     "medium": 54,
     "hard": 12,
     "basic": 0
@@ -101,7 +101,8 @@
     "LeetCode_Redundant_Connection": true,
     "LeetCode_Number_of_Operations_to_Make_Network_Connected": true,
     "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true,
-    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
+    "LeetCode_Maximum_Average_Subarray_I": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -149,9 +150,10 @@
     "2026-10-16": 1,
     "2026-10-17": 1,
     "2026-10-18": 4,
-    "2026-10-19": 1
+    "2026-10-19": 2
   },
   "todayProblems": [
-    "Find Target Indices After Sorting Array"
+    "Find Target Indices After Sorting Array",
+    "Maximum Average Subarray I"
   ]
 }
