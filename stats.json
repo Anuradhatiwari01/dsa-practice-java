@@ -1,12 +1,12 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 6,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 55,
+    "medium": 56,
     "hard": 12,
     "basic": 0
   },
@@ -103,7 +103,8 @@
     "LeetCode_Number_of_Ways_to_Reorder_Array_to_Get_Same_BST": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Maximum_Average_Subarray_I": true,
-    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
+    "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -151,11 +152,12 @@
     "2026-10-16": 1,
     "2026-10-17": 1,
     "2026-10-18": 4,
-    "2026-10-19": 3
+    "2026-10-19": 4
   },
   "todayProblems": [
     "Find Target Indices After Sorting Array",
     "Maximum Average Subarray I",
-    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "Maximum Number of Vowels in a Substring of Given Length"
   ]
 }
