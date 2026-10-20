@@ -1,12 +1,12 @@
 {
-  "totalSolved": 96,
+  "totalSolved": 97,
   "currentStreak": 7,
   "maxStreak": 15,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 58,
+    "medium": 59,
     "hard": 12,
     "basic": 0
   },
@@ -106,7 +106,8 @@
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
     "LeetCode_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length": true,
     "LeetCode_Max_Consecutive_Ones_III": true,
-    "LeetCode_Minimum_Size_Subarray_Sum": true
+    "LeetCode_Minimum_Size_Subarray_Sum": true,
+    "LeetCode_Fruit_Into_Baskets": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -155,9 +156,10 @@
     "2026-10-17": 1,
     "2026-10-18": 4,
     "2026-10-19": 5,
-    "2026-10-20": 1
+    "2026-10-20": 2
   },
   "todayProblems": [
-    "Minimum Size Subarray Sum"
+    "Minimum Size Subarray Sum",
+    "Fruit Into Baskets"
   ]
 }
