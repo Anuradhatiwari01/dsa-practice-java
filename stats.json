@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
-  "currentStreak": 8,
+  "totalSolved": 101,
+  "currentStreak": 9,
   "maxStreak": 15,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-10-22",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 61,
+    "medium": 62,
     "hard": 13,
     "basic": 0
   },
@@ -110,7 +110,8 @@
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Sum_of_Sortable_Integers": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Minimum_Operations_to_Sort_a_String": true
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true,
+    "LeetCode_Minimum_Operations_to_Sort_a_Permutation": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -160,9 +161,10 @@
     "2026-10-18": 4,
     "2026-10-19": 5,
     "2026-10-20": 4,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-10-22": 1
   },
   "todayProblems": [
-    "Minimum Operations to Sort a String"
+    "Minimum Operations to Sort a Permutation"
   ]
 }
