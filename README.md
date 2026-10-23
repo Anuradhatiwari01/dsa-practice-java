@@ -101,3 +101,4 @@
 | 99 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 20 Oct 2026 | 09:52 pm |
 | 100 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 06:04 pm |
 | 101 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 07:29 pm |
+| 102 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 09:18 am |
