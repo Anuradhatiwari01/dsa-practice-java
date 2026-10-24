@@ -102,3 +102,4 @@
 | 100 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 06:04 pm |
 | 101 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 07:29 pm |
 | 102 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 09:18 am |
+| 103 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 01:56 pm |
