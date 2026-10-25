@@ -103,3 +103,4 @@
 | 101 | [Minimum Operations to Sort a Permutation](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | 22 Oct 2026 | 07:29 pm |
 | 102 | [Maximum K to Sort a Permutation](./LeetCode/Medium/Maximum%20K%20to%20Sort%20a%20Permutation) | [LeetCode](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | 23 Oct 2026 | 09:18 am |
 | 103 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 01:56 pm |
+| 104 | [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | Medium | 25 Oct 2026 | 07:53 pm |
