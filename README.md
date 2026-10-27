@@ -105,3 +105,4 @@
 | 103 | [Count Days Spent Together](./LeetCode/Easy/Count%20Days%20Spent%20Together) | [LeetCode](https://leetcode.com/problems/count-days-spent-together/) | Easy | 24 Oct 2026 | 01:56 pm |
 | 104 | [Number of Closed Islands](./LeetCode/Medium/Number%20of%20Closed%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-closed-islands/) | Medium | 25 Oct 2026 | 07:53 pm |
 | 105 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 09:56 pm |
+| 106 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 09:45 pm |
