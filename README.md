@@ -111,3 +111,4 @@
 | 109 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 28 Oct 2026 | 10:47 am |
 | 110 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 28 Oct 2026 | 10:52 am |
 | 111 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 28 Oct 2026 | 11:46 am |
+| 112 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 10:09 pm |
