@@ -107,3 +107,4 @@
 | 105 | [Count Islands With Total Value Divisible by K](./LeetCode/Medium/Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K) | [LeetCode](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | 26 Oct 2026 | 09:56 pm |
 | 106 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 09:45 pm |
 | 107 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 28 Oct 2026 | 09:52 am |
+| 108 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 28 Oct 2026 | 10:30 am |
