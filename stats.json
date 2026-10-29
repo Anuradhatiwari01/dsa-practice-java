@@ -1,13 +1,13 @@
 {
-  "totalSolved": 112,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-10-28",
-  "todayCount": 6,
+  "totalSolved": 113,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-10-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
     "medium": 71,
-    "hard": 13,
+    "hard": 14,
     "basic": 0
   },
   "syncedProblems": {
@@ -122,7 +122,8 @@
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Search_Tree": true,
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
-    "LeetCode_Minimum_XOR_Path_in_a_Grid": true
+    "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
+    "LeetCode_Palindromic_Path_Queries_in_a_Tree": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -179,14 +180,10 @@
     "2026-10-25": 1,
     "2026-10-26": 1,
     "2026-10-27": 1,
-    "2026-10-28": 6
+    "2026-10-28": 6,
+    "2026-10-29": 1
   },
   "todayProblems": [
-    "Validate Binary Search Tree",
-    "Kth Smallest Element in a BST",
-    "Lowest Common Ancestor of a Binary Search Tree",
-    "Kth Largest Element in an Array",
-    "Lowest Common Ancestor of a Binary Tree",
-    "Minimum XOR Path in a Grid"
+    "Palindromic Path Queries in a Tree"
   ]
 }
