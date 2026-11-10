@@ -121,3 +121,4 @@
 | 119 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 05 Nov 2026 | 11:56 am |
 | 120 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 09:11 pm |
 | 121 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 11:42 pm |
+| 122 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 12:32 pm |

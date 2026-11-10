@@ -1,12 +1,12 @@
 {
-  "totalSolved": 121,
-  "currentStreak": 1,
+  "totalSolved": 122,
+  "currentStreak": 2,
   "maxStreak": 20,
-  "lastSyncDate": "2026-11-09",
+  "lastSyncDate": "2026-11-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 76,
+    "medium": 77,
     "hard": 16,
     "basic": 0
   },
@@ -131,7 +131,8 @@
     "LeetCode_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal": true,
     "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
     "LeetCode_Process_Tasks_Using_Servers": true,
-    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true
+    "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
+    "LeetCode_Climbing_Stairs_II": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -197,9 +198,10 @@
     "2026-11-04": 1,
     "2026-11-05": 1,
     "2026-11-07": 1,
-    "2026-11-09": 1
+    "2026-11-09": 1,
+    "2026-11-10": 1
   },
   "todayProblems": [
-    "Find Servers That Handled Most Number of Requests"
+    "Climbing Stairs II"
   ]
 }
