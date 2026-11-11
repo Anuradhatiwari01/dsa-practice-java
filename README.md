@@ -122,3 +122,4 @@
 | 120 | [Process Tasks Using Servers](./LeetCode/Medium/Process%20Tasks%20Using%20Servers) | [LeetCode](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | 07 Nov 2026 | 09:11 pm |
 | 121 | [Find Servers That Handled Most Number of Requests](./LeetCode/Hard/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) | [LeetCode](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | 09 Nov 2026 | 11:42 pm |
 | 122 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 12:32 pm |
+| 123 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 01:14 pm |
