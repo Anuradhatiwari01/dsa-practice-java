@@ -1,11 +1,11 @@
 {
-  "totalSolved": 123,
-  "currentStreak": 3,
+  "totalSolved": 124,
+  "currentStreak": 4,
   "maxStreak": 20,
-  "lastSyncDate": "2026-11-11",
+  "lastSyncDate": "2026-11-12",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 78,
     "hard": 16,
     "basic": 0
@@ -133,7 +133,8 @@
     "LeetCode_Process_Tasks_Using_Servers": true,
     "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
     "LeetCode_Climbing_Stairs_II": true,
-    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true
+    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -201,9 +202,10 @@
     "2026-11-07": 1,
     "2026-11-09": 1,
     "2026-11-10": 1,
-    "2026-11-11": 1
+    "2026-11-11": 1,
+    "2026-11-12": 1
   },
   "todayProblems": [
-    "Minimum Cost to Acquire Required Items"
+    "Longest Strictly Increasing or Strictly Decreasing Subarray"
   ]
 }
