@@ -126,3 +126,4 @@
 | 124 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./LeetCode/Easy/Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray) | [LeetCode](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | 12 Nov 2026 | 07:01 pm |
 | 125 | [Count Non-Decreasing Subarrays After K Operations](./LeetCode/Hard/Count%20Non-Decreasing%20Subarrays%20After%20K%20Operations) | [LeetCode](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | 13 Nov 2026 | 05:00 pm |
 | 126 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 14 Nov 2026 | 02:43 pm |
+| 127 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 14 Nov 2026 | 03:36 pm |
