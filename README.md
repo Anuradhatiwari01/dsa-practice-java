@@ -128,3 +128,4 @@
 | 126 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 14 Nov 2026 | 02:43 pm |
 | 127 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 14 Nov 2026 | 03:36 pm |
 | 128 | [Subsets II](./LeetCode/Medium/Subsets%20II) | [LeetCode](https://leetcode.com/problems/subsets-ii/) | Medium | 14 Nov 2026 | 03:46 pm |
+| 129 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 03:07 pm |

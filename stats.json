@@ -1,12 +1,12 @@
 {
-  "totalSolved": 128,
-  "currentStreak": 6,
+  "totalSolved": 129,
+  "currentStreak": 7,
   "maxStreak": 20,
-  "lastSyncDate": "2026-11-14",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 30,
-    "medium": 81,
+    "medium": 82,
     "hard": 17,
     "basic": 0
   },
@@ -138,7 +138,8 @@
     "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true,
     "LeetCode_Subsets": true,
     "LeetCode_Permutations": true,
-    "LeetCode_Subsets_II": true
+    "LeetCode_Subsets_II": true,
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -209,11 +210,10 @@
     "2026-11-11": 1,
     "2026-11-12": 1,
     "2026-11-13": 1,
-    "2026-11-14": 3
+    "2026-11-14": 3,
+    "2026-11-15": 1
   },
   "todayProblems": [
-    "Subsets",
-    "Permutations",
-    "Subsets II"
+    "Number of Sub-arrays With Odd Sum"
   ]
 }
