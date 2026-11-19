@@ -131,3 +131,4 @@
 | 129 | [Number of Sub-arrays With Odd Sum](./LeetCode/Medium/Number%20of%20Sub-arrays%20With%20Odd%20Sum) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | 15 Nov 2026 | 03:07 pm |
 | 130 | [Calculate Digit Sum of a String](./LeetCode/Easy/Calculate%20Digit%20Sum%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | 16 Nov 2026 | 10:49 am |
 | 131 | [Minimum Changes to Make K Semi-palindromes](./LeetCode/Hard/Minimum%20Changes%20to%20Make%20K%20Semi-palindromes) | [LeetCode](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | Hard | 17 Nov 2026 | 06:30 pm |
+| 132 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 06:18 pm |

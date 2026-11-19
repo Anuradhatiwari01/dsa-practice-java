@@ -1,12 +1,12 @@
 {
-  "totalSolved": 131,
-  "currentStreak": 9,
+  "totalSolved": 132,
+  "currentStreak": 1,
   "maxStreak": 20,
-  "lastSyncDate": "2026-11-17",
+  "lastSyncDate": "2026-11-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 82,
+    "medium": 83,
     "hard": 18,
     "basic": 0
   },
@@ -141,7 +141,8 @@
     "LeetCode_Subsets_II": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "LeetCode_Calculate_Digit_Sum_of_a_String": true,
-    "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true
+    "LeetCode_Minimum_Changes_to_Make_K_Semi-palindromes": true,
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -215,9 +216,10 @@
     "2026-11-14": 3,
     "2026-11-15": 1,
     "2026-11-16": 1,
-    "2026-11-17": 1
+    "2026-11-17": 1,
+    "2026-11-19": 1
   },
   "todayProblems": [
-    "Minimum Changes to Make K Semi-palindromes"
+    "Minimum Score by Changing Two Elements"
   ]
 }
