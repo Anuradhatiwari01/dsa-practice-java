@@ -1,11 +1,11 @@
 {
-  "totalSolved": 136,
+  "totalSolved": 137,
   "currentStreak": 4,
   "maxStreak": 20,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 32,
+    "easy": 33,
     "medium": 84,
     "hard": 20,
     "basic": 0
@@ -146,7 +146,8 @@
     "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
     "LeetCode_Find_Subtree_Sizes_After_Changes": true,
     "LeetCode_Check_if_All_A's_Appears_Before_All_B's": true,
-    "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true
+    "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true,
+    "LeetCode_Valid_Anagram": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -224,10 +225,11 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 1,
-    "2026-11-22": 2
+    "2026-11-22": 3
   },
   "todayProblems": [
     "Check if All A's Appears Before All B's",
-    "Minimum Insertion Steps to Make a String Palindrome"
+    "Minimum Insertion Steps to Make a String Palindrome",
+    "Valid Anagram"
   ]
 }
