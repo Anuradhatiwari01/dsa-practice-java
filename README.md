@@ -139,3 +139,4 @@
 | 137 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 22 Nov 2026 | 07:29 pm |
 | 138 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 22 Nov 2026 | 07:42 pm |
 | 139 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 22 Nov 2026 | 08:00 pm |
+| 140 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 23 Nov 2026 | 06:42 pm |
