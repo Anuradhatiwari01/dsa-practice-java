@@ -1,12 +1,12 @@
 {
-  "totalSolved": 141,
+  "totalSolved": 142,
   "currentStreak": 6,
   "maxStreak": 20,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 86,
+    "medium": 87,
     "hard": 20,
     "basic": 0
   },
@@ -151,7 +151,8 @@
     "LeetCode_Group_Anagrams": true,
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_Product_of_the_Last_K_Numbers": true,
-    "LeetCode_Maximum_Subarray_With_Equal_Products": true
+    "LeetCode_Maximum_Subarray_With_Equal_Products": true,
+    "LeetCode_Implement_Trie_(Prefix_Tree)": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -231,9 +232,10 @@
     "2026-11-21": 1,
     "2026-11-22": 5,
     "2026-11-23": 1,
-    "2026-11-24": 1
+    "2026-11-24": 2
   },
   "todayProblems": [
-    "Maximum Subarray With Equal Products"
+    "Maximum Subarray With Equal Products",
+    "Implement Trie (Prefix Tree)"
   ]
 }
