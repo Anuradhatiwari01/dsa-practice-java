@@ -142,3 +142,4 @@
 | 140 | [Product of the Last K Numbers](./LeetCode/Medium/Product%20of%20the%20Last%20K%20Numbers) | [LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | 23 Nov 2026 | 06:42 pm |
 | 141 | [Maximum Subarray With Equal Products](./LeetCode/Easy/Maximum%20Subarray%20With%20Equal%20Products) | [LeetCode](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | Easy | 24 Nov 2026 | 10:30 am |
 | 142 | [Implement Trie (Prefix Tree)](./LeetCode/Medium/Implement%20Trie%20(Prefix%20Tree)) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 24 Nov 2026 | 04:04 pm |
+| 143 | [Smallest Unique Subarray](./LeetCode/Hard/Smallest%20Unique%20Subarray) | [LeetCode](https://leetcode.com/problems/smallest-unique-subarray/) | Hard | 25 Nov 2026 | 10:07 am |
