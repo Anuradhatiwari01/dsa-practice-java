@@ -1,11 +1,11 @@
 {
-  "totalSolved": 143,
-  "currentStreak": 7,
+  "totalSolved": 144,
+  "currentStreak": 8,
   "maxStreak": 20,
-  "lastSyncDate": "2026-11-25",
+  "lastSyncDate": "2026-11-26",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 35,
+    "easy": 36,
     "medium": 87,
     "hard": 21,
     "basic": 0
@@ -153,7 +153,8 @@
     "LeetCode_Product_of_the_Last_K_Numbers": true,
     "LeetCode_Maximum_Subarray_With_Equal_Products": true,
     "LeetCode_Implement_Trie_(Prefix_Tree)": true,
-    "LeetCode_Smallest_Unique_Subarray": true
+    "LeetCode_Smallest_Unique_Subarray": true,
+    "LeetCode_Stone_Removal_Game": true
   },
   "activityHistory": {
     "2026-08-03": 1,
@@ -234,9 +235,10 @@
     "2026-11-22": 5,
     "2026-11-23": 1,
     "2026-11-24": 2,
-    "2026-11-25": 1
+    "2026-11-25": 1,
+    "2026-11-26": 1
   },
   "todayProblems": [
-    "Smallest Unique Subarray"
+    "Stone Removal Game"
   ]
 }
